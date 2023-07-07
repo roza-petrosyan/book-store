@@ -1,7 +1,8 @@
 Please at first run 
 
-1. npx json-server --watch data/db.json --port 8000
-2. npm start
+1. npm install
+2. npx json-server --watch data/db.json --port 8000
+3. npm start
 
 # Getting Started with Create React App
 
