@@ -1,0 +1,28 @@
+.MuiOutlinedInput-notchedOutline{
+    border: 2px solid #f0f0d0 !important;
+}
+
+.MuiInputLabel-root{
+    color: #9F8C76 !important
+}
+
+.dropZone{
+    background-color: beige;
+}
+
+.css-17pbpn5-MuiTypography-root{
+    font-size: 14px !important;
+}
+
+.css-1k7w1r2-MuiGrid-root > div{
+    margin-left: 30px;
+    background-color: beige;
+    width: 200px;
+    min-height: 100px !important;
+    padding-left: 22px;
+    padding-right: 22px;
+}
+
+.css-xi606m > svg{
+    display: none;
+}
